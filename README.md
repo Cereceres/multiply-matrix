@@ -1,2 +1,2 @@
-# multiply-matrix
-multiply matrix that are given as array
+# gauss-elimination
+gauss elimination algorithm
